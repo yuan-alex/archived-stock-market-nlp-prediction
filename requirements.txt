@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+seaborn
+termcolor
+pymagnitude
+datetime
+string
+tqdm
+tensorflow
+keras
